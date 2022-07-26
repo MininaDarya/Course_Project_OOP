@@ -1,0 +1,23 @@
+﻿  Account.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Admin.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Company.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Employee.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+  CourseWorkSalary.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Employee.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Employee.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Employee.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Position.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Employee.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Salary.cpp
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Account.h(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Employee.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Object.cpp
+  Создание кода...
+D:\ООП\курсач\CourseWorkSalary\CourseWorkSalary\Company.cpp(1053): warning C4715: Company::getEmployeeByLogin: значение возвращается не при всех путях выполнения
+  CourseWorkSalary.vcxproj -> D:\ООП\курсач\CourseWorkSalary\Debug\CourseWorkSalary.exe

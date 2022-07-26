@@ -1,0 +1,11 @@
+﻿  Company.cpp
+C:\Users\Полина\source\repos\CourseWorkSalary\CourseWorkSalary\Account.h(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Полина\source\repos\CourseWorkSalary\CourseWorkSalary\Employee.h(82,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Полина\source\repos\CourseWorkSalary\CourseWorkSalary\Company.cpp(379,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Employee.cpp
+C:\Users\Полина\source\repos\CourseWorkSalary\CourseWorkSalary\Account.h(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Полина\source\repos\CourseWorkSalary\CourseWorkSalary\Employee.h(82,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Полина\source\repos\CourseWorkSalary\CourseWorkSalary\Company.cpp(960): warning C4715: Company::getEmployeeByLogin: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\Полина\source\repos\CourseWorkSalary\Debug\CourseWorkSalary.exe при последней инкрементной компоновке; выполняется полная компоновка
+  CourseWorkSalary.vcxproj -> C:\Users\Полина\source\repos\CourseWorkSalary\Debug\CourseWorkSalary.exe

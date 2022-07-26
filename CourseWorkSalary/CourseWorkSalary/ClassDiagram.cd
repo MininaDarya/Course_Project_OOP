@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Account" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAQAAEJAAAAAAAIAAAAAAAAAAAAAAAgAgCAEMA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAQgAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Company" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIKIIMgUKQEAAAAQIAKYCACBFJAIghAEABEBAmCQEE=</HashCode>
+      <FileName>Company.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAJWIGAIABQALEyECAIAiSiAAABABEAQBkIAAADkA=</HashCode>
+      <FileName>Employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAAAAAAAAAAAAAACAAQAAAAACAAAA=</HashCode>
+      <FileName>Object.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ID&lt;T&gt;" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>ID.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Position" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABMAMBAAAgAAKgAACAIAASAAAAAAAAAgAgAACAAgA=</HashCode>
+      <FileName>Position.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="salary_::Salary" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAEQAAAABQAAABAAAAAAACABAA=</HashCode>
+      <FileName>Salary.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
